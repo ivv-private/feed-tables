@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="file:///c:/dev/projects/feed-tables/">
+
+<!-- xml:base="http://rutracker.org/forum/"> -->
+  <title>Архитектура и строительство</title>
+  <updated>2011-11-23T07:50:01+00:00</updated>
+  <id>tag:rto.feed,2000:/f/1469</id>
+  <link href="viewforum.php?f=1469" />
+
+  <entry>
+    <title type="html"><![CDATA[Морской город. Создать невозможное / Building sea city / 1 сезон / Эпизод 1 из ? / (Phil Craic, Nicholas Ward) [2011, научно-популярный, SATRip] [554 MB]]]></title>
+    <author>
+      <name>Дрек</name>
+    </author>
+    <updated>2011-11-23T06:41:43+00:00</updated>
+    <id>tag:rto.feed,2011-11-23:/t/3831236</id>
+    <!-- <link href="viewtopic.php?t=3831236" /> -->
+    <link href="rutracker.html" />
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[[Обновлено] Мегасооружения (54 серии) / Megastructures: (National Geographic HD) [Научно-популярный, HDTVRip] [45.12 GB]]]></title>
+    <author>
+      <name>abysow</name>
+    </author>
+    <updated>2011-11-20T19:30:02+00:00</updated>
+    <id>tag:rto.feed,2011-11-20:/t/2059965</id>
+    <!-- <link href="viewtopic.php?t=2059965" /> -->
+    <link href="rutracker.html" />
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[[Обновлено] Euromaxx на отдыхе /Euromaxx on vacation (6 серий) [Интересное ТВ 19.11.2011] () [2009 г., Документальный сериал, путешествия, познавательное ТВ, SATRip] [2.03 GB]]]></title>
+    <author>
+      <name>Chelur</name>
+    </author>
+    <updated>2011-11-20T04:51:04+00:00</updated>
+    <id>tag:rto.feed,2011-11-20:/t/3822903</id>
+    <!-- <link href="viewtopic.php?t=3822903" /> -->
+    <link href="rutracker.html" />
+  </entry>
+</feed>
